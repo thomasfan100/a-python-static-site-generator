@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is design to be completed on [Pluralsight](https://pluralsight.com). To find out more see here: [https://www.pluralsight.com/product/projects](https://www.pluralsight.com/product/projects).
+Used Python3, pip and ran ssg.py file to execute project.
 
 ## Installation
 
